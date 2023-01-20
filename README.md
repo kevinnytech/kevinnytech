@@ -1,6 +1,6 @@
 # Hi, I'm [kevin](https://.github.io/) 👋🏾 👨💻
 
-I'm a Creat with love for problem-solving, continually seeking and testing new tools and opportunities for innovation. I'm passionate about web applications, blockchain technologies and development tools.  Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup), PHP, NodeJs and Solidty. I also build Dapps on blockchain platforms such as **Ethereum, Binance Smart Chain, Polygon**.  🎯
+I'm a curious individual  with  love for problem-solving, continually seeking and testing new tools and opportunities for innovation. .  🎯
 
 ## 📫 How to reach me? 
 
