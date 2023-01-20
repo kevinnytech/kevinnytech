@@ -1,7 +1,16 @@
-### Hi there 👋
+# Hi, I'm [kevin](https://.github.io/) 👋🏾 👨💻
+
+I'm a Creative Developer, Community Manager, and Content Creator with love for problem-solving, continually seeking and testing new tools and opportunities for innovation. I'm passionate about web applications, blockchain technologies and development tools.  Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup), PHP, NodeJs and Solidty. I also build Dapps on blockchain platforms such as **Ethereum, Binance Smart Chain, Polygon**.  🎯
+
+## 📫 How to reach me? 
+
+  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/d---) 👨🏻‍💻 <br>
+  ⦿ Email me [here](mailto:--@gmail.com) <br>
+  
+ 
 
 <!--
-**kevinnytech/kevinnytech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
