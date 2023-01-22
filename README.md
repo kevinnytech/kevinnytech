@@ -1,7 +1,7 @@
 <h1 align="center">~ <img src="https://raw.githubusercontent.com/kevinnytech/kevinnytech/master/wave.gif" width="30px" height="30px"> Hi there, kevinnytech ~</h1>
 
 <p align="center">
-  <a href="https://th3-gr00t.tk/" alt="Site"><img alt="Website" src="https://img.shields.io/website?down_color=orange&down_message=OFFLINE&label=th3-gr00t.tk&style=for-the-badge&up_color=green&up_message=ONLINE&url=https%3A%2F%2Fth3-gr00t.tk%2F"></a>
+  <a href="https://kevinnytech.tk/" alt="Site"><img alt="Website" src="https://img.shields.io/website?down_color=orange&down_message=OFFLINE&label=th3-gr00t.tk&style=for-the-badge&up_color=green&up_message=ONLINE&url=https%3A%2F%2Fth3-gr00t.tk%2F"></a>
 </p>
 <p align="center">
 <a href="https://twitter.com/kevinnytech/" alt="twitter"><img src="https://img.shields.io/twitter/follow/th3_gr00t?color=1DA1F2&logo=twitter&style=for-the-badge" /></a>
@@ -17,13 +17,13 @@
 - ⚡ Fun fact: I'm a hyper person and I loooove speeeed!! Ohhh + i 🥰 🐶
 
 <p align="center">
-<a href="https://th3-gr00t.tk/" alt="Site"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" /></a>
-<a href="https://twitter.com/th3_gr00t/" alt="twitter"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href="https://www.linkedin.com/in/peter-numi-b14b71145/" alt="linkedin"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://blog.th3-gr00t.tk/" alt="blog"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" /></a>
+<a href="https://kevinnytech/" alt="Site"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" /></a>
+<a href="https://twitter.com/kevinnytech/" alt="twitter"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<a href="https://www.linkedin.com/in/kevinnytech/" alt="linkedin"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://blog.kevinnytech/" alt="blog"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" /></a>
 </p>
 
-[website]: https://th33-gr00t.tk/
-[twitter]: https://twitter.com/th3_gr00t/
-[linkedin]: https://www.linkedin.com/in/peter-numi-b14b71145/
-[blog]: https://blog.th3-gr00t.tk/
+[website]: https://kevinnytech/
+[twitter]: https://twitter.com/kevinnytech/
+[linkedin]: https://www.linkedin.com/in/kevinnytech/
+[blog]: https://blog.kevinnytech.tk/
