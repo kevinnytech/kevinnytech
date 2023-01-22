@@ -1,7 +1,7 @@
 <h1 align="center">~ <img src="https://raw.githubusercontent.com/kevinnytech/kevinnytech/master/wave.gif" width="30px" height="30px"> Hi there, kevinnytech ~</h1>
 
 <p align="center">
-  <a href="https://kevinnytech.tk/" alt="Site"><img alt="Website" src="https://img.shields.io/website?down_color=orange&down_message=OFFLINE&label=th3-gr00t.tk&style=for-the-badge&up_color=green&up_message=ONLINE&url=https%3A%2F%2Fth3-gr00t.tk%2F"></a>
+  <a href="https://kevinnytech.tk/" alt="Site"><img alt="Website" src="https://img.shields.io/website?down_color=orange&down_message=OFFLINE&label=kevinnytech&style=for-the-badge&up_color=green&up_message=ONLINE&url=https%3A%2F%2Fkevinnytech%2F"></a>
 </p>
 <p align="center">
 <a href="https://twitter.com/kevinnytech/" alt="twitter"><img src="https://img.shields.io/twitter/follow/th3_gr00t?color=1DA1F2&logo=twitter&style=for-the-badge" /></a>
