@@ -9,7 +9,7 @@
 * :books: **Education:** BSc. Architechure
 * :heart: **Loves:** Architecture ,Programming, Cycling
 * :pushpin: **Location:** Nairobi, Kenya
-* **Current activity:** learning the iconic "Single Ladies" choreography :dancer: (<a href="mailto:kevinnytech@gmail.com?subject=How's the Landscape Photography going?&body=Hi, I came across your Github page and was so intrigued by your bio that I had to ask how the choreo is progressing :)">ask me how this is going</a>)
+* **Current activity:** learning the iconic "Art of Photography" choreography :dancer: (<a href="mailto:kevinnytech@gmail.com?subject=How's the Photography going?&body=Hi, I came across your Github page and was so intrigued by your bio that I had to ask how the choreo is progressing :)">ask me how this is going</a>)
 * **Next stop:** Senior Software Engineer :computer:
 * **Final destination:** World dominion :earth_africa:
 
