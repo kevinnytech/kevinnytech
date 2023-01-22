@@ -1,25 +1,24 @@
-# Hi, I'm [kevin](https://.github.io/) 👋🏾 👨💻
+### Hi there, this is Kevin Ny  👋
 
-I'm a curious individual  with  love for problem-solving, continually seeking and testing new tools and opportunities for innovation. .  🎯
+<Br>
+<h1>About Me! 😎</h1>
 
-## 📫 How to reach me? 
-
-  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/d---) 👨🏻‍💻 <br>
-  ⦿ Email me [here](mailto:--@gmail.com) <br>
+- 🔭: I’m currently working on Web development and small ML projects.
+- 🌱: I’m currently learning full stack web development.💻
+- 🤔: I’m looking for remote jobs! 😅
+- 💬: Ask me about Architecture ,Photography ,Data Analysis, Visualization and Machine Learning algorithms. 📊📈🤖🧠
+- 😄  Pronouns: 
+- ⚡  Real Love: Investing on myself, Mentoring my juniors, Taking personal development trainings, Listening to Music.
   
- 
-
-<!--
-**f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<Br>
+<h4>GitHub Stats! 📊</h4>
+<Br>
+  
+[![Tarikwa's github stats](https://github-readme-stats.vercel.app/api?username=tariktesfa&show_icons=true&theme=merko)](https://github.com/tariktesfa/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tariktesfa&layout=compact&theme=merko)](https://github.com/tariktesfa/github-readme-stats)
+  
+<Br>
+<h5>Open to new opportunities!</h5>
+------
+  
+  
+Credit: [Aryagm](https://github.com/Aryagm)
