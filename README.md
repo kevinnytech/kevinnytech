@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Kevinnytech&label=Visitor+Count&color=ff3a7c&style=plastic)
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=fd428d&size=35&height=50&lines=Software+Engineer;Architect;Designer;Cyclist;Experimenter)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=fd428d&size=35&height=50&lines=Architect;Software+Engineer;Cyclist;Experimenter)](https://git.io/typing-svg)
 
 ## About me
 * :books: **Education:** BSc. Architechure
