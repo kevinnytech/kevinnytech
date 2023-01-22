@@ -1,4 +1,4 @@
-# <span style="color: rgb(271,58,124)">kevinnytech, reporting for duty!</span> :raising_hand:  [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kevinnytech/)
+# <span style="color: rgb(271,58,124)">kevinnytech, reporting for duty!</span> ::  [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kevinnytech/)
 
 
 ![](https://komarev.com/ghpvc/?username=Kevinnytech&label=Visitor+Count&color=ff3a7c&style=plastic)
