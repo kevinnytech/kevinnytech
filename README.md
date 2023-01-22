@@ -1,24 +1,29 @@
-### Hi there, this is Kevin Ny  👋
+<h1 align="center">~ <img src="https://raw.githubusercontent.com/kevinnytech/kevinnytech/master/wave.gif" width="30px" height="30px"> Hi there, kevinnytech ~</h1>
 
-<Br>
-<h1>About Me! 😎</h1>
+<p align="center">
+  <a href="https://th3-gr00t.tk/" alt="Site"><img alt="Website" src="https://img.shields.io/website?down_color=orange&down_message=OFFLINE&label=th3-gr00t.tk&style=for-the-badge&up_color=green&up_message=ONLINE&url=https%3A%2F%2Fth3-gr00t.tk%2F"></a>
+</p>
+<p align="center">
+<a href="https://twitter.com/kevinnytech/" alt="twitter"><img src="https://img.shields.io/twitter/follow/th3_gr00t?color=1DA1F2&logo=twitter&style=for-the-badge" /></a>
+</p>
 
-- 🔭: I’m currently working on Web development and small ML projects.
-- 🌱: I’m currently learning full stack web development.💻
-- 🤔: I’m looking for remote jobs! 😅
-- 💬: Ask me about Architecture ,Photography ,Data Analysis, Visualization and Machine Learning algorithms. 📊📈🤖🧠
-- 😄  Pronouns: 
-- ⚡  Real Love: Investing on myself, Mentoring my juniors, Taking personal development trainings, Listening to Music.
-  
-<Br>
-<h4>GitHub Stats! 📊</h4>
-<Br>
-  
-[![kevinnytech's github stats](https://github-readme-stats.vercel.app/api?username=kevinnytech&show_icons=true&theme=merko)](https://github.com/kevinnytech/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinnytech&layout=compact&theme=merko)](https://github.com/kevinnytech/github-readme-stats)
-  
-<Br>
-<h5>Open to new opportunities!</h5>
-------
-  
-  
-Credit: [Aryagm](https://github.com/Aryagm)
+<h3 align="center">I'm into  Research.</h3>
+
+- 🔭 I’m working on 👨‍🏭 [Automation][blog] & 👷 [DevOps][blog]!
+- 🌱 I’m learning low level 🧰 stuff ... 👨‍💻.
+- 👯 I’m looking to collaborate 🤝 on other  researchers research and build on them.
+- 👋 I try to [share][blog] what I have learnt or picked up along the way.
+- 🥅 Main Goal: **`Network`**, **`Learn`** and Contribute more to **`Open Source`** projects.
+- ⚡ Fun fact: I'm a hyper person and I loooove speeeed!! Ohhh + i 🥰 🐶
+
+<p align="center">
+<a href="https://th3-gr00t.tk/" alt="Site"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" /></a>
+<a href="https://twitter.com/th3_gr00t/" alt="twitter"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<a href="https://www.linkedin.com/in/peter-numi-b14b71145/" alt="linkedin"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://blog.th3-gr00t.tk/" alt="blog"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" /></a>
+</p>
+
+[website]: https://th33-gr00t.tk/
+[twitter]: https://twitter.com/th3_gr00t/
+[linkedin]: https://www.linkedin.com/in/peter-numi-b14b71145/
+[blog]: https://blog.th3-gr00t.tk/
