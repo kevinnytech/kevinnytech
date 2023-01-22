@@ -1,29 +1,25 @@
-<h1 align="center">~ <img src="https://raw.githubusercontent.com/kevinnytech/kevinnytech/master/wave.gif" width="30px" height="30px"> Hi there, kevinnytech ~</h1>
+# <span style="color: rgb(271,58,124)">kevinnytech, reporting for duty!</span> :raising_hand:  [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kevinnytech/)
 
-<p align="center">
-  <a href="https://kevinnytech.tk/" alt="Site"><img alt="Website" src="https://img.shields.io/website?down_color=orange&down_message=OFFLINE&label=kevinnytech&style=for-the-badge&up_color=green&up_message=ONLINE&url=https%3A%2F%2Fkevinnytech%2F"></a>
-</p>
-<p align="center">
-<a href="https://twitter.com/kevinnytech/" alt="twitter"><img src="https://img.shields.io/twitter/follow/th3_gr00t?color=1DA1F2&logo=twitter&style=for-the-badge" /></a>
-</p>
 
-<h3 align="center">I'm into  Research.</h3>
+![](https://komarev.com/ghpvc/?username=Kevinnytech&label=Visitor+Count&color=ff3a7c&style=plastic)
 
-- 🔭 I’m working on 👨‍🏭 [Automation][blog] & 👷 [DevOps][blog]!
-- 🌱 I’m learning low level 🧰 stuff ... 👨‍💻.
-- 👯 I’m looking to collaborate 🤝 on other  researchers research and build on them.
-- 👋 I try to [share][blog] what I have learnt or picked up along the way.
-- 🥅 Main Goal: **`Network`**, **`Learn`** and Contribute more to **`Open Source`** projects.
-- ⚡ Fun fact: I'm a hyper person and I loooove speeeed!! Ohhh + i 🥰 🐶
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=fd428d&size=35&height=50&lines=Software+Engineer;Foodie;Aulirophile;Experimenter)](https://git.io/typing-svg)
 
-<p align="center">
-<a href="https://kevinnytech/" alt="Site"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" /></a>
-<a href="https://twitter.com/kevinnytech/" alt="twitter"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href="https://www.linkedin.com/in/kevinnytech/" alt="linkedin"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://blog.kevinnytech/" alt="blog"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" /></a>
-</p>
+## About me
+* :books: **Education:** BSc. Architechure
+* :heart: **Loves:** Architecture ,Programming, Cycling
+* :pushpin: **Location:** Nairobi, Kenya
+* **Current activity:** learning the iconic "Single Ladies" choreography :dancer: (<a href="mailto:kevinnytech@gmail.com?subject=How's the Landscape Photography going?&body=Hi, I came across your Github page and was so intrigued by your bio that I had to ask how the choreo is progressing :)">ask me how this is going</a>)
+* **Next stop:** Senior Software Engineer :computer:
+* **Final destination:** World dominion :earth_africa:
 
-[website]: https://kevinnytech/
-[twitter]: https://twitter.com/kevinnytech/
-[linkedin]: https://www.linkedin.com/in/kevinnytech/
-[blog]: https://blog.kevinnytech.tk/
+## My Work:
+- Blog: [Hashnode](https://kevinnytech.hashnode.dev/) (currently under construction)
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinnytech&theme=radical"/> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinnytech&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+Tech toolkit: <img style="height: 2em; width: 2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/> <img style="height: 2em; width: 2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> <img style="height: 2em; width: 2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img style="height: 2em; width: 2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img style="height: 2em; width: 2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img style="height: 2em; width: 2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img style="height: 2em; width: 2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /> <img style="height: 2em; width: 2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> <img style="height: 2em; width: 2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" /> <img style="height: 2em; width: 2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" /> <img style="height: 2em; width: 2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> <img style="height: 2em; width: 2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> <img style="height: 2em; width: 2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" /> <img style="height: 2em; width: 2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img style="height: 2em; width: 2em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+
+
