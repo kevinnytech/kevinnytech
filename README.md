@@ -7,7 +7,7 @@
 
 ## About me
 * :books: **Education:** BSc. Architechure
-* :heart: **Loves:** Architecture ,Programming, Cycling
+* :heart: **Loves:** Architecture 👷🏽‍♂️,Programming, Cycling
 * :pushpin: **Location:** Nairobi, Kenya
 * **Current activity:** learning the iconic "Art of Photography"  📸: (<a href="mailto:kevinnytech@gmail.com?subject=How's the Photography going?&body=Hi, I came across your Github page and was so intrigued by your bio that I had to ask how the choreo is progressing :)">ask me how this is going</a>)
 * **Next stop:** Senior Software Engineer :computer:
