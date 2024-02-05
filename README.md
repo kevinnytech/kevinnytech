@@ -5,7 +5,7 @@
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=fd428d&size=35&height=50&lines=Architect👷🏗️;Software+Engineer🖥️;Cyclist🚴;Experimenter🧠;Arcviz🖌️🎨)](https://git.io/typing-svg)
 
-## About me ...
+## About me ....
 * :books: **Education:** BSc. Architechure
 * :heart: **Loves:** Architecture 👷🏽‍♂️,Programming🖥, Cycling 🚴,Research 🔍.
 * :pushpin: **Location:** Nairobi, Kenya
